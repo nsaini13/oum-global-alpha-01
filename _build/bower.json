@@ -1,0 +1,22 @@
+{
+  "name": "project-alpha",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Neeraj Saini"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "underscore": "^1.8.3",
+    "bootstrap": "^3.3.7"
+  }
+}

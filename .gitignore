@@ -1,0 +1,8 @@
+
+.DS_Store
+.idea/
+
+_build/bower_components/
+_build/node_modules/
+_build/.*/
+
